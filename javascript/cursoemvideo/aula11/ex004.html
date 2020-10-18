@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nacionalidade</title>
+    <style>
+        body {
+            text-align: center;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+    </style>
+</head>
+<body id="corpo">
+    <h2>Nacionalidade</h2>
+    <p>Pais natal: <input type="text" id="pais"></p>
+    <input type="button" value="Verificar" onclick="verificar()">
+    <div id="resultado">
+
+    </div>
+
+    <script>
+        let corpo = document.querySelector("body#corpo");
+        corpo.style.background = "aqua";
+
+        function verificar(){
+            let pais = document.querySelector("input#pais").value.toUpperCase();
+            let resultado = document.querySelector("div#resultado");
+            
+            if (pais == "BRASIL"){
+                resultado.innerHTML = "<p>Você é <strong>brasileiro</strong></p>";
+            } else {
+                resultado.innerHTML = "<p>Você é <strong>estrangeiro</strong></p>";
+            }
+        }   
+    </script>
+</body>
+</html>

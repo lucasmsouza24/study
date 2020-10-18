@@ -1,0 +1,10 @@
+C:\Users\lucas\Documents\.estudo\ti\csharp\Data_Solucao\Data_Projeto\bin\Debug\Data_Projeto.exe.config
+C:\Users\lucas\Documents\.estudo\ti\csharp\Data_Solucao\Data_Projeto\bin\Debug\Data_Projeto.exe
+C:\Users\lucas\Documents\.estudo\ti\csharp\Data_Solucao\Data_Projeto\bin\Debug\Data_Projeto.pdb
+C:\Users\lucas\Documents\.estudo\ti\csharp\Data_Solucao\Data_Projeto\obj\Debug\Data_Projeto.csprojAssemblyReference.cache
+C:\Users\lucas\Documents\.estudo\ti\csharp\Data_Solucao\Data_Projeto\obj\Debug\Data_Projeto.FormPrincipal.resources
+C:\Users\lucas\Documents\.estudo\ti\csharp\Data_Solucao\Data_Projeto\obj\Debug\Data_Projeto.Properties.Resources.resources
+C:\Users\lucas\Documents\.estudo\ti\csharp\Data_Solucao\Data_Projeto\obj\Debug\Data_Projeto.csproj.GenerateResource.cache
+C:\Users\lucas\Documents\.estudo\ti\csharp\Data_Solucao\Data_Projeto\obj\Debug\Data_Projeto.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\.estudo\ti\csharp\Data_Solucao\Data_Projeto\obj\Debug\Data_Projeto.exe
+C:\Users\lucas\Documents\.estudo\ti\csharp\Data_Solucao\Data_Projeto\obj\Debug\Data_Projeto.pdb

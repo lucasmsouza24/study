@@ -1,0 +1,10 @@
+C:\Users\lucas\Documents\.estudo\ti\csharp\001_Solucao\001_Projeto\bin\Debug\001_Projeto.exe.config
+C:\Users\lucas\Documents\.estudo\ti\csharp\001_Solucao\001_Projeto\bin\Debug\001_Projeto.exe
+C:\Users\lucas\Documents\.estudo\ti\csharp\001_Solucao\001_Projeto\bin\Debug\001_Projeto.pdb
+C:\Users\lucas\Documents\.estudo\ti\csharp\001_Solucao\001_Projeto\obj\Debug\001_Projeto.csprojAssemblyReference.cache
+C:\Users\lucas\Documents\.estudo\ti\csharp\001_Solucao\001_Projeto\obj\Debug\_001_Projeto.Properties.Resources.resources
+C:\Users\lucas\Documents\.estudo\ti\csharp\001_Solucao\001_Projeto\obj\Debug\001_Projeto.csproj.GenerateResource.cache
+C:\Users\lucas\Documents\.estudo\ti\csharp\001_Solucao\001_Projeto\obj\Debug\001_Projeto.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\.estudo\ti\csharp\001_Solucao\001_Projeto\obj\Debug\001_Projeto.exe
+C:\Users\lucas\Documents\.estudo\ti\csharp\001_Solucao\001_Projeto\obj\Debug\001_Projeto.pdb
+C:\Users\lucas\Documents\.estudo\ti\csharp\001_Solucao\001_Projeto\obj\Debug\_001_Projeto.Form1.resources

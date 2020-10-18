@@ -1,0 +1,184 @@
+body {
+	color: #000;
+	background-color: #fff;
+	background-image: url("../imagens/topo.png");
+	background-repeat: repeat-x;
+	margin-top: 100px;
+	line-height: 18px;
+}
+.center {
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}
+#estrutura {
+	width: 700px;
+	margin-right: auto;	
+	margin-left: auto;	
+}
+#brasao {
+	display: block;
+	background-image: url("../imagens/brasao.png");
+	background-repeat: no-repeat;
+	background-position-x: center;
+	background-position-y: 10px; 
+	padding-top: 30px;
+	padding-bottom: 120px;
+	
+}
+#menu {
+	position: sticky;
+	bottom: 0;
+	display: block;
+	text-align: center;
+	border: solid 1px #000;
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+	background-color: #485C7D;
+}
+#menu li a {
+	display: block;
+	color: #000;
+	padding: 8px 16px;
+	text-decoration: none;
+}
+#menu li a:link{
+	font-weight: bold;
+	color: #fff;
+	/*background-color: #485C7D;*/
+	padding: 5px;
+	text-decoration: none;
+}
+#menu li a:visited{
+	font-weight: bold;
+	color: #fff;
+	/*background-color: #485C7D;*/
+	text-decoration: none;
+}
+#menu li a:hover{
+	font-weight: bold;
+	color: #fff;
+	background-color: #CF9940;
+	text-decoration: none;
+}
+#menu2 {
+	text-align: left;
+	padding-bottom: 10px;
+}
+#menu2 a:link {
+	font-weight: bold;
+	color: #fff;
+	background-color: #485C7D;
+	padding: 5px;
+	text-decoration: none
+}
+#menu2 a:visited{
+	font-weight: bold;
+	color: #fff;
+	background-color: #485C7D;
+	padding: 5px;
+	text-decoration: none
+}
+#menu2 a:hover{
+	font-weight: bold;
+	color: #fff;
+	background-color: #CF9940;
+	padding: 5px;
+	text-decoration: none
+}
+
+a:link {
+	color: #485C7D;
+	font-weight: bold;
+	text-decoration: none;
+}
+a:visited {
+	color: #485C7D;
+	font-weight: bold;
+	text-decoration: none;
+}
+a:hover {
+	color: #CF9940;
+	font-weight: bold;
+	text-decoration: none;
+}
+h1 {
+	size: 36px;
+	color: #485C7D;
+	border-bottom: solid medium #485C7D;
+	line-height: 32px;
+}
+h2 {
+	size: 22px;
+	color: #CF9940;
+	font-style: italic;
+	text-align: left;
+}
+h3 {
+	size: 16px;
+	color: #fff;
+	background-color: #495E5F;
+	font-family: Arial, Helvetica, sans-serif;
+}
+h4 {
+	size: 16px;
+	color: #fff;
+	background-color: #CF9940;
+	font-family: Arial, Helvetica, sans-serif;
+}
+h5 {
+	size: 16px;
+	color: #fff;
+	background-color: #485C7D;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#iframe01 {
+	overflow: hidden;
+}
+p {
+	font-family: calibri;
+}
+img {
+	margin: 10px;
+	padding: 10px;
+	border: solid 1px #485C7D;
+}
+.caixa_texto {
+	text-align: justify;
+	text-indent: 10px;
+}
+table {
+	border: solid thin #485C7D;
+}
+caption {
+	font-weight: bold;
+	color: #fff;
+	background-color: #CF9940;
+	padding: 5px; 
+}
+th {
+	color: #fff;
+	background-color: #485C7D; 
+	text-align: left;
+	padding: 5px;         
+}
+#wlist {
+	list-style-position: inside;
+	list-style-image: url("../imagens/brasao_mini.png");
+}
+#box {
+	font-weight: bold;
+	color: #a6200c;
+	background-color: #a1b06a;
+	background-image: url("../imagens/fundo_listrado.gif");
+	width: 200px;
+	padding: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.destaque {
+	font-size: 14px;
+	color: #fff;
+	background-color: #a6200c;
+}

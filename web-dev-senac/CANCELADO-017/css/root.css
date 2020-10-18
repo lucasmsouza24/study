@@ -1,0 +1,52 @@
+#estrutura {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#menu {
+	width: 100%;
+	height: 38px;
+	background-color: #2b2734;
+	padding-top: 0px;
+	margin: 0px;
+}
+#menu ul {
+	list-style-type: none;
+}
+#menu ul li {
+	display: inline-block;
+	float: left;
+	height: 17px;
+	padding: 10px;
+}
+#menu ul li a {
+	text-decoration: none;
+	margin: 10px 30px;
+	color: #e5e4f0;
+}
+#menu ul li a:hover{
+	text-decoration: none;
+	margin: 10px 30px;
+	color: #e5e4f0;
+}
+#menu ul li:hover {
+	border-bottom: solid 1px #f5c16d;
+}
+body {
+	background-color: #13171f;
+	margin: 0px;
+}
+p, h1, h2 {
+	color: #e5e4f0;
+}
+#prisao img{
+	width: 70%;
+	border: solid 1px #f5c16d;
+	margin-left: 110px;
+	/*display: none;*/
+}
+#teste {
+	width: 20px;
+	height: 20px;
+	background-color: red;
+}

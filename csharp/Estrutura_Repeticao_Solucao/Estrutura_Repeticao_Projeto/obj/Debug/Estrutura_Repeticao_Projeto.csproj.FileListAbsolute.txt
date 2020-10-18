@@ -1,0 +1,10 @@
+C:\Users\lucas\Documents\.estudo\ti\csharp\Estrutura_Repeticao_Solucao\Estrutura_Repeticao_Projeto\bin\Debug\Estrutura_Repeticao_Projeto.exe.config
+C:\Users\lucas\Documents\.estudo\ti\csharp\Estrutura_Repeticao_Solucao\Estrutura_Repeticao_Projeto\bin\Debug\Estrutura_Repeticao_Projeto.exe
+C:\Users\lucas\Documents\.estudo\ti\csharp\Estrutura_Repeticao_Solucao\Estrutura_Repeticao_Projeto\bin\Debug\Estrutura_Repeticao_Projeto.pdb
+C:\Users\lucas\Documents\.estudo\ti\csharp\Estrutura_Repeticao_Solucao\Estrutura_Repeticao_Projeto\obj\Debug\Estrutura_Repeticao_Projeto.csprojAssemblyReference.cache
+C:\Users\lucas\Documents\.estudo\ti\csharp\Estrutura_Repeticao_Solucao\Estrutura_Repeticao_Projeto\obj\Debug\Estrutura_Repeticao_Projeto.FormPrincipal.resources
+C:\Users\lucas\Documents\.estudo\ti\csharp\Estrutura_Repeticao_Solucao\Estrutura_Repeticao_Projeto\obj\Debug\Estrutura_Repeticao_Projeto.Properties.Resources.resources
+C:\Users\lucas\Documents\.estudo\ti\csharp\Estrutura_Repeticao_Solucao\Estrutura_Repeticao_Projeto\obj\Debug\Estrutura_Repeticao_Projeto.csproj.GenerateResource.cache
+C:\Users\lucas\Documents\.estudo\ti\csharp\Estrutura_Repeticao_Solucao\Estrutura_Repeticao_Projeto\obj\Debug\Estrutura_Repeticao_Projeto.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\.estudo\ti\csharp\Estrutura_Repeticao_Solucao\Estrutura_Repeticao_Projeto\obj\Debug\Estrutura_Repeticao_Projeto.exe
+C:\Users\lucas\Documents\.estudo\ti\csharp\Estrutura_Repeticao_Solucao\Estrutura_Repeticao_Projeto\obj\Debug\Estrutura_Repeticao_Projeto.pdb

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soma entre 2 números</title>
+    
+</head>
+<body>
+    <h1>Soma entre 2 números!</h1>
+    <input type="number" name="n1" id="n1"> +
+    <input type="number" name="n2" id="n2">
+    <input type="button" value="Somar" id="btn">
+    <div id=resultado><h2>Resultado:</h2></div>
+
+    <script>
+        function somar(){
+            let n1 = document.querySelector("input#n1");
+            let n2 = document.querySelector("input#n2");
+            let resultado = document.querySelector("div#resultado");
+            let soma = Number(n1.value) + Number(n2.value);
+            resultado.innerHTML = `<h2>Resultado: ${n1.value} + ${n2.value} = ${soma}</h2>`
+        }
+
+        let btn = document.querySelector("input#btn");
+        btn.addEventListener("click", somar);
+    </script>
+</body>
+</html>

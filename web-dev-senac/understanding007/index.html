@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>jQuery</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script>
+		$(document).ready(function(){
+			$("#fui").click(function(){
+				$("p").hide("slow");
+			});
+			$("#voltei").click(function(){
+				$("p").show("slow");
+			});
+			$("#alterna").click(function(){
+				$("p").toggle("slow");
+			});
+		});
+	</script>
+</head>
+<body>
+	<p>Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</p>
+	<button id="fui">Esconder</button>
+	<button id="voltei">Mostrar</button>
+	<button id="alterna">Alternar</button>
+</body>
+</html>

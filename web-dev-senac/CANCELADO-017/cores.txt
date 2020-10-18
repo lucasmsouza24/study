@@ -1,0 +1,5 @@
+dark black #13171f
+light black #2b2734
+gold #f5c16d
+white #e5e4f0
+blue #3e4ca4

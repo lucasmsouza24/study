@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Formulários</title>
+	<meta charset="utf-8">
+</head>
+<body>
+	<h1>Formulários</h1>
+	<!-- <hr> configura uma linha horizontal meramente estética -->
+	<hr>
+	<!-- qualquer elemento de formulário deve estar dentro da tag <form></form> 
+	-O atributo action define a ação a ser executada quando o formulário é enviado
+	-O atributo method especifica o método HTTP (GET ou POST) a ser usado ao enviar os dados do formulário -->
+	<form action="obrigado.html" method="GET">
+		<!-- <fieldset></fieldset> retangulo metamente estético -->
+		<fieldset>
+			<!-- <legend>text</legend> define a legenda do fieldset -->
+			<legend>Dados de login:</legend>
+			<!-- Um label, é possível vincular um label à um input, atravez do parâmetro for="id" (id do input) -->
+			<label>Nome: </label>
+			<!--Um campo de entrada de dados.
+			 	parametros:
+
+				type=("button","checkbox","color","date","datetime-local","email","file","hidden","image","month","number","password","radio","range","reset","search","submit","tel","text","time","url","week") 
+
+				name="" (nome de futura variável)	
+
+				required="required" (torna o preenchimento obrigatório do campo)
+				size="" (valor inteiro que determina o tamanho do campo baseado na quantidade de caracteres)
+
+				maxlenght="" (valor inteiro que determina a quantidade máxima de caracteres permitida no campo)
+				-->
+
+			<input type="text" name="nome" required="required"> </br> </br>
+			<label>Senha: </label>
+			<input type="password" name="senha" required="required">
+		</fieldset> </br>
+
+		<fieldset>
+			<legend>Dados pessoais: </legend>
+			<label>Endereço: </label>
+			<input type="text" name="endereco" size="50" maxlength="10"><br><br>
+			<!-- Os radio buttons devem contem o mesmo name para que haja uma conexão entre eles
+				 input -> label
+				 checked="checked" -> mantem "marcado" o radio button
+				 value="" -> valor do radio button
+			 -->
+			<input type="radio" name="sexo"> <label>Masculino</label>
+			<input type="radio" name="sexo"> <label>Feminino</label> <br><br>
+
+			<label>Aparelhos que possue: </label><br><br>
+			<input type="checkbox" name="pc" value="pc"><label>Computador</label><br>
+			<input type="checkbox" name="gl" value="gl"><label>Geladeira</label><br>
+			<input type="checkbox" name="tv" value="tv"><label>Televisão</label><br><br>
+
+			Escolha seu carro:
+			<!-- combo-box que possui várias opções -->
+			<select name="carro">
+				<option value="celta">Celta</option>
+				<option value="corsa">Corsa</option>
+				<option value="hb20">HB20</option>
+			</select><br><br>
+			<textarea name="sug" rows="10" cols="40" maxlength="400"></textarea>
+		</fieldset>
+
+
+		<input type="submit" name="enviar" value="Enviar">
+		<input type="reset" name="Limpar" value="Limpar">
+	</form>
+</body>
+</html>

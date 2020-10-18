@@ -1,0 +1,61 @@
+=======================================================================================
+
+DICA 1
+
+Ctrl SPACE  		> Seleciona coluna
+Shift SPACE 		> Seleciona linha
+
+=======================================================================================
+
+DICA 2
+
+Ctrl +				> Adiciona linha
+Ctrl -				> Remove linha
+
+=======================================================================================
+
+DICA 3		
+
+Ctrl arrow			> Pula pra última linha/coluna
+Ctrl Shift arrow	> Seleciona linhas/colunas até a última
+
+=======================================================================================
+
+DICA 4
+
+Ctrl *				> Seleciona a mini planilha
+ou Ctrl t
+
+=======================================================================================
+
+DICA 5
+
+Exibir > Barra de Fórmula; Linhas de Grade; Títulos;
+
+=======================================================================================
+
+DICA 6
+
+Ctrl 1				> Abre tela de formatação
+
+=======================================================================================
+
+DICA 7
+
+Como fazer tabela zebrada
+
+1- selecione a planilha;
+2- formatação condicional;
+3- nova regra;
+4- > usar uma fórmula para para determinar quais células devem ser formatadas;
+	 	=MOD(LIN();2)=0
+5- formatar;
+6- escolher a formatação;
+
+=======================================================================================
+
+DICA 8
+
+Ctrl b 				> Salva o documento.
+
+=======================================================================================

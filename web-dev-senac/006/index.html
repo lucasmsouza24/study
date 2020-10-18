@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Aula 06 - COVID-19</title>
+	<meta charset="utf-8">
+</head>
+<body>
+	<h1><i>Questionário sobre COVID-19</i></h1>
+	<form action="resultado_enviado.html" method="GET">
+		<hr>
+		<fieldset>
+			<legend>Questão 01</legend><br>
+			<label>O que é coronavírus?</label><br><br>
+			<input type="radio" name="q01" value="a" checked="checked"><label>Um Vírus</label><br>
+			<input type="radio" name="q01" value="b"><label>Uma família de vírus</label><br>
+			<input type="radio" name="q01" value="c"><label>Uma marca de cerveja</label><br>
+			<input type="radio" name="q01" value="d"><label>Uma doença</label><br>
+			<input type="radio" name="q01" value="e"><label>Um teorema matemático</label><br>
+		</fieldset><br>
+
+		<fieldset>
+			<legend>Questão 02</legend><br>
+			<label>O que é COVID-19?</label><br><br>
+			<input type="radio" name="q02" value="a" checked="checked"><label>Um smartphone da Xiaomi</label><br>
+			<input type="radio" name="q02" value="b"><label>Uma espécie de fungo</label><br>
+			<input type="radio" name="q02" value="c"><label>Um modelo de carro da Tesla</label><br>
+			<input type="radio" name="q02" value="d"><label>Uma doença infecciosa</label><br>
+			<input type="radio" name="q02" value="e"><label>Um pigmento</label>
+		</fieldset><br>
+
+		<fieldset>
+			<legend>Questão 03</legend><br>
+			<label>Quais são os <b>principais</b> sintomas do COVID-19?</label><br><br>
+			<input type="checkbox" name="q03" value="tosse"><label>Tosse</label><br>
+			<input type="checkbox" name="q03" value="febre"><label>Febre</label><br>
+			<input type="checkbox" name="q03" value="coriza"><label>Coriza</label><br>
+			<input type="checkbox" name="q03" value="dif_res"><label>Dificuldade de respirar</label><br>
+			<input type="checkbox" name="q03" value="dor_barr"><label>Dor de barriga</label>
+		</fieldset><br>
+
+		<fieldset>
+			<legend>Questão 04</legend><br>
+			<label>"A COVID-19 é uma doença que ataca <b>somente</b> pessoas que acima de 60 anos."<br><br> A afirmação anterior é:</label> 
+			<select>
+				<option value="true">Verdadeira</option>
+				<option value="false">Falsa</option>
+			</select> .	
+		</fieldset><br>
+
+		<fieldset>
+			<legend>Questão 05</legend><br>
+			<label>Em <b>sua opinião</b>, o isolamento social ameniza os danos causados pelo vírus? Por que?</label><br><br>
+			<textarea name="q05" rows="7" cols="50" maxlength="560" required="required"></textarea>
+		</fieldset><br>
+
+		<fieldset>
+			<legend>Questão 06</legend><br>
+			<label>"Os sintomas da COVID-19 são similares aos de uma gripe comum."<br><br> A afirmação anterior é:</label> 
+			<select>
+				<option value="true">Verdadeira</option>
+				<option value="false">Falsa</option>
+			</select> .	
+		</fieldset><br>
+
+		<fieldset>
+			<legend>Questão 07</legend><br>
+			<label>Como é transmitida a COVID-19?</label><br><br>
+			<textarea name="q07" rows="7" cols="50" maxlength="560" required="required"></textarea>
+		</fieldset>
+
+		<fieldset>
+			<legend>Questão 08</legend><br>
+			<label>Pessoas sem sintomas podem transmitir o COVID-19?</label><br><br>
+			<input type="radio" name="q08" value="sim"><label>Sim</label><br>
+			<input type="radio" name="q08" value="nao"><label>Não</label>
+		</fieldset><br>
+
+		<fieldset>
+			<legend>Questão 09</legend><br>
+			<label>Como diferenciar gripe comum de COVID-19?</label><br><br>
+			<textarea name="q09" rows="7" cols="50" maxlength="560" required="required"></textarea>
+		</fieldset><br>
+		
+		<fieldset>
+			<legend>Questão 10</legend><br>
+			<label>Em que continente se originou o COVID-19 (em humanos)?</label><br><br>
+			<input type="radio" name="q10" value="n_america"><label>América do Norte</label><br>
+			<input type="radio" name="q10" value="s_america"><label>América do Sul</label><br>
+			<input type="radio" name="q10" value="africa"><label>África</label><br>
+			<input type="radio" name="q10" value="asia"><label>Ásia</label><br>
+			<input type="radio" name="q10" value="europa"><label>Europa</label><br>
+
+		</fieldset>
+		<br>
+		<input type="submit" name="enviar" value="Enviar">
+		<input type="reset" name="limpar" value="Limpar">
+	</form>
+</body>
+</html> 

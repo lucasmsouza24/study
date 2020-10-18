@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eventos DOM</title>
+</head>
+<body>
+    <h1>Mostrar valor</h1>
+    <input type="text" name="txt1" id="txt1">
+    <input type="button" value="btn" id="btn">
+    <div id="resultado">Resultado</div>
+
+    <script>
+        function click(){
+            let txt1 = document.querySelector("input#txt1");
+            let resultado = document.querySelector("div#resultado");
+            resultado.innerHTML = `<h1> O valor digitado foi: ${txt1.value}</h1>`
+        }
+
+        let btn = document.querySelector("input#btn");
+        btn.addEventListener("click", click);
+    </script>
+</body>
+</html>

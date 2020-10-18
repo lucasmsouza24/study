@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM</title>
+    <style>
+        body{
+            background: aqua;
+            font: 18pt normal Arial;
+        }
+    </style>
+</head>
+<body>
+    <h1 id="main">Iniciando estudos DOM</h1>
+    <p>Aqui vai o resultado</p>
+    <p id="p2">Aprendendo a usar o <strong>DOM</strong> em Javascript</p>
+    <div>Clique em mim</div>
+    <script>
+        document.write(window.document.charset + "<br>");
+        document.write(window.navigator.appName + "<br>");
+        document.write(window.document.URL + "<br>");
+        let p2 = window.document.getElementById("p2")
+        p2.style.background = "green";
+        p2.innerText = "Fui modificado..."
+        let h1 = window.document.querySelector('h1#main')
+        h1.style.color = 'white';
+    </script>
+</body>
+</html>

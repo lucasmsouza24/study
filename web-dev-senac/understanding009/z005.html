@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Aula 17</title>
+	<meta charset="utf-8">
+	<style type="text/css">
+		div {
+			background-color: #98bf21;
+			height: 100px;
+			width: 100px;
+			position: absolute;
+		}
+	</style>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$("button").click(function(){
+				var div = $("div");
+				div.animate({
+					height: 'toggle'
+				});
+			});
+		});
+	</script>
+</head>
+<body>
+	<br>
+	<button><h2>Clique</h2></button><br><br>
+	<div></div>
+</body>
+</html>

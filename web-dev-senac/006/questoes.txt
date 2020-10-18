@@ -1,0 +1,62 @@
+radio button
+1- O que é coronavírus?
+a)um vírus
+b)uma família de vírus
+c)uma marca de cerveja
+d)uma doença
+e)um teorema matemático
+
+radio button
+2- o que é covid-19?
+a)Um smartphone da Xiaomi
+b)Uma espécie de fungo
+c)Um modelo de carro da Tesla
+d)Uma doença infecciosa
+e)Um pigmento
+
+Multipla escolha(checkbox)
+3-Quais são os sintomas do COVID-19?
+# Tosse
+# Febre
+# Coriza
+# Dificuldade de respirar
+# Dor de barriga
+
+Verdadeiro ou falso(select)
+4- "A COVID-19 é uma doença que ataca somente pessoas acima de 60 anos.". A afirmação anterior é:
+
+° true
+° false
+
+Dissertativa
+5-Em sua opinião, o isolamento social ameniza os danos causados pelo vírus? Por que?
+
+Verdadeiro ou falso(select)
+6-"Os sintomas da COVID-19 são similares aos de uma gripe comum." A afirmação anterior é:
+
+° true
+° false
+
+Dissertativa
+7-Como é transmitida a COVID-19?
+
+Radio button
+8-Pessoas sem sintomas podem transmitir o COVID-19?
+
+° sim
+° não
+
+dissertativa
+9-Como diferenciar gripe comum
+de COVID-19?
+
+radio button
+10-em que continente se originou o covid-19 (em humanos)?
+
+reusltado_enviado.html
+
+Obrigado por responder o questionário!
+
+Lembre-se de lavar bem as mãos, saia de casa somente se necessário e não esqueça da mascara!
+
+voltar

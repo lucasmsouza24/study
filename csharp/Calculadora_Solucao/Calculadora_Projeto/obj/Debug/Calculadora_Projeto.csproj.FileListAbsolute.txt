@@ -1,0 +1,10 @@
+C:\Users\lucas\Documents\.estudo\ti\csharp\Calculadora_Solucao\Calculadora_Projeto\bin\Debug\Calculadora_Projeto.exe.config
+C:\Users\lucas\Documents\.estudo\ti\csharp\Calculadora_Solucao\Calculadora_Projeto\bin\Debug\Calculadora_Projeto.exe
+C:\Users\lucas\Documents\.estudo\ti\csharp\Calculadora_Solucao\Calculadora_Projeto\bin\Debug\Calculadora_Projeto.pdb
+C:\Users\lucas\Documents\.estudo\ti\csharp\Calculadora_Solucao\Calculadora_Projeto\obj\Debug\Calculadora_Projeto.csprojAssemblyReference.cache
+C:\Users\lucas\Documents\.estudo\ti\csharp\Calculadora_Solucao\Calculadora_Projeto\obj\Debug\Calculadora_Projeto.FormMain.resources
+C:\Users\lucas\Documents\.estudo\ti\csharp\Calculadora_Solucao\Calculadora_Projeto\obj\Debug\Calculadora_Projeto.Properties.Resources.resources
+C:\Users\lucas\Documents\.estudo\ti\csharp\Calculadora_Solucao\Calculadora_Projeto\obj\Debug\Calculadora_Projeto.csproj.GenerateResource.cache
+C:\Users\lucas\Documents\.estudo\ti\csharp\Calculadora_Solucao\Calculadora_Projeto\obj\Debug\Calculadora_Projeto.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\.estudo\ti\csharp\Calculadora_Solucao\Calculadora_Projeto\obj\Debug\Calculadora_Projeto.exe
+C:\Users\lucas\Documents\.estudo\ti\csharp\Calculadora_Solucao\Calculadora_Projeto\obj\Debug\Calculadora_Projeto.pdb

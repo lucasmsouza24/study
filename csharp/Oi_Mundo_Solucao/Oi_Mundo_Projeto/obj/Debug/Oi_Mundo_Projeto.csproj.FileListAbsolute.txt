@@ -1,0 +1,10 @@
+C:\Users\lucas\Documents\.estudo\ti\csharp\Oi_Mundo_Solucao\Oi_Mundo_Projeto\bin\Debug\Oi_Mundo_Projeto.exe.config
+C:\Users\lucas\Documents\.estudo\ti\csharp\Oi_Mundo_Solucao\Oi_Mundo_Projeto\bin\Debug\Oi_Mundo_Projeto.exe
+C:\Users\lucas\Documents\.estudo\ti\csharp\Oi_Mundo_Solucao\Oi_Mundo_Projeto\bin\Debug\Oi_Mundo_Projeto.pdb
+C:\Users\lucas\Documents\.estudo\ti\csharp\Oi_Mundo_Solucao\Oi_Mundo_Projeto\obj\Debug\Oi_Mundo_Projeto.csprojAssemblyReference.cache
+C:\Users\lucas\Documents\.estudo\ti\csharp\Oi_Mundo_Solucao\Oi_Mundo_Projeto\obj\Debug\Oi_Mundo_Projeto.Form1.resources
+C:\Users\lucas\Documents\.estudo\ti\csharp\Oi_Mundo_Solucao\Oi_Mundo_Projeto\obj\Debug\Oi_Mundo_Projeto.Properties.Resources.resources
+C:\Users\lucas\Documents\.estudo\ti\csharp\Oi_Mundo_Solucao\Oi_Mundo_Projeto\obj\Debug\Oi_Mundo_Projeto.csproj.GenerateResource.cache
+C:\Users\lucas\Documents\.estudo\ti\csharp\Oi_Mundo_Solucao\Oi_Mundo_Projeto\obj\Debug\Oi_Mundo_Projeto.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\.estudo\ti\csharp\Oi_Mundo_Solucao\Oi_Mundo_Projeto\obj\Debug\Oi_Mundo_Projeto.exe
+C:\Users\lucas\Documents\.estudo\ti\csharp\Oi_Mundo_Solucao\Oi_Mundo_Projeto\obj\Debug\Oi_Mundo_Projeto.pdb

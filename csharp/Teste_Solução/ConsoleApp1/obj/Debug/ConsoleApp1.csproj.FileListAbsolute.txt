@@ -1,0 +1,7 @@
+C:\Users\lucas\Documents\.estudo\ti\csharp\Teste_Solução\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\lucas\Documents\.estudo\ti\csharp\Teste_Solução\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\lucas\Documents\.estudo\ti\csharp\Teste_Solução\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\lucas\Documents\.estudo\ti\csharp\Teste_Solução\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\lucas\Documents\.estudo\ti\csharp\Teste_Solução\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\.estudo\ti\csharp\Teste_Solução\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\lucas\Documents\.estudo\ti\csharp\Teste_Solução\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

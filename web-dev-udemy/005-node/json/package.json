@@ -1,0 +1,14 @@
+{
+  "name": "json",
+  "version": "1.0.0",
+  "description": "pegando arquivo remoto .json e lendo-o",
+  "main": "main.js",
+  "scripts": {
+    "test": "console.log('success')"
+  },
+  "author": "luqueta",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}

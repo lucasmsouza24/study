@@ -1,0 +1,124 @@
+body {
+	color: #000;
+	background-color: #fff;
+	background-image: url("../imagens/topo.png");
+	background-repeat: repeat-x;
+	margin-top: 100px;
+	line-height: 18px;
+}
+.center {
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}
+#estrutura {
+	width: 700px;
+	margin-right: auto;	
+	margin-left: auto;	
+}
+#menu {
+	background-image: url("../imagens/brasao.png");
+	background-repeat: no-repeat;
+	background-position-x: 0px; 
+	background-position-y: 10px; 
+	padding-top: 120px;
+	padding-bottom: 5px;
+	padding-left: 200px;
+}
+#menu2 {
+	text-align: left;
+	padding-bottom: 10px;
+}
+#menu2 a:link {
+	font-weight: bold;
+	color: #fff;
+	background-color: #485C7D;
+	padding: 5px;
+	text-decoration: none
+}
+#menu2 a:visited{
+	font-weight: bold;
+	color: #fff;
+	background-color: #485C7D;
+	padding: 5px;
+	text-decoration: none
+}
+#menu2 a:hover{
+	font-weight: bold;
+	color: #fff;
+	background-color: #CF9940;
+	padding: 5px;
+	text-decoration: none
+}
+#menu a:link{
+	font-weight: bold;
+	color: #fff;
+	background-color: #485C7D;
+	padding: 5px;
+	text-decoration: none;
+}
+#menu a:visited{
+	font-weight: bold;
+	color: #fff;
+	background-color: #485C7D;
+	padding: 5px;
+	text-decoration: none;
+}
+#menu a:hover{
+	font-weight: bold;
+	color: #fff;
+	background-color: #CF9940;
+	padding: 5px;
+	text-decoration: none;
+}
+a:link {
+	color: #485C7D;
+	font-weight: bold;
+	text-decoration: none;
+}
+a:visited {
+	color: #485C7D;
+	font-weight: bold;
+	text-decoration: none;
+}
+a:hover {
+	color: #CF9940;
+	font-weight: bold;
+	text-decoration: none;
+}
+h1 {
+	size: 36px;
+	color: #485C7D;
+	border-bottom: solid medium #485C7D;
+	line-height: 32px;
+}
+h2 {
+	size: 22px;
+	color: #CF9940;
+	font-style: italic;
+	text-align: left;
+}
+h3 {
+	size: 16px;
+	color: #fff;
+	background-color: #495E5F;
+	font-family: Arial, Helvetica, sans-serif;
+}
+h4 {
+	size: 16px;
+	color: #fff;
+	background-color: #CF9940;
+	font-family: Arial, Helvetica, sans-serif;
+}
+h5 {
+	size: 16px;
+	color: #fff;
+	background-color: #485C7D;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#iframe01 {
+	overflow: hidden;
+}
+p {
+	font-family: calibri;
+}

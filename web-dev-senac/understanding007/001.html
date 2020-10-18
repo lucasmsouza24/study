@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>jQuery</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script>
+		$(document).ready(function(){
+			$("#btn1").click(function(){
+				$("#div1").fadeIn(500);
+				$("#div2").fadeIn(1000);
+				$("#div3").fadeIn(1500);
+			});
+			$("#btn2").click(function(){
+				$("#div4").fadeOut(500);
+				$("#div5").fadeOut(1000);
+				$("#div6").fadeOut(1500);
+			});
+			$("#btn3").click(function(){
+				$("#div7").fadeToggle("fast");
+				$("#div8").fadeToggle("fast");
+				$("#div9").fadeToggle("fast");
+			});
+			$("#btn4").click(function(){
+				/*$(object).fadeTo(speed, opacity);*/
+				$("#div10").fadeTo("slow", 0.3);
+				$("#div11").fadeTo("slow", 0.6);
+				$("#div12").fadeTo("slow", 0.9);
+			});
+		});
+	</script>
+	<style type="text/css">
+		div {
+			width: 60px;
+			height: 60px;
+			border: solid black 1px;
+			margin: 15px;
+		}
+		#div1, #div2, #div3 {
+			display: none;
+		}
+		button {
+			margin: 30px 10px;
+		}
+	</style>
+</head>
+<body>
+	<button id="btn1">FadeIn</button><br>
+	<div id="div1" style="background-color: red;"></div>
+	<div id="div2" style="background-color: green;"></div>
+	<div id="div3" style="background-color: blue;"></div>
+	<button id="btn2">FadeOut</button><br>
+	<div id="div4" style="background-color: red;"></div>
+	<div id="div5" style="background-color: green;"></div>
+	<div id="div6" style="background-color: blue;"></div>
+	<button id="btn3">fadeToggle</button><br>
+	<div id="div7" style="background-color: red;"></div>
+	<div id="div8" style="background-color: green;"></div>
+	<div id="div9" style="background-color: blue;"></div>
+	<button id="btn4">fadeTo</button><br>
+	<div id="div10" style="background-color: red;"></div>
+	<div id="div11" style="background-color: green;"></div>
+	<div id="div12" style="background-color: blue;"></div>
+</body>
+</html>

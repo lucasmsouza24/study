@@ -1,0 +1,124 @@
+body {
+	color: #000;
+	background-color: #fff;
+	background-image: url("../imagens/fundo_topo.gif");
+	background-repeat: repeat-x;
+	margin-top: 100px;
+	line-height: 18px;
+}
+a:link {
+	color: #a6200c;
+	font-weight: bold;
+}
+a:visited {
+	color: #df886a;
+	font-weight: bold;
+}
+a:hover {
+	color: #a1b06a;
+	font-weight: bold;
+}
+h1 {
+	size: 36px;
+	color: #a6200c;
+	border-bottom: solid medium #a6200c;
+	line-height: 36px;
+}
+h2 {
+	size: 22px;
+	color: #468966;
+	font-style: italic;
+	text-align: right;
+}
+h3 {
+	size: 16px;
+	color: #fff;
+	background-color: #a1b06a;
+}
+#estrutura {
+	width: 800px;
+	margin-right: auto;	
+	margin-left: auto;	
+}
+#menu {
+	background-image: url("../imagens/logotipo_sitio.png");
+	background-repeat: no-repeat;
+	background-position-x: 0px; 
+	background-position-y: 0px; 
+	padding-top: 110px;
+	padding-bottom: 5px;
+	padding-left: 290px;
+}
+#menu p a:link{
+	font-weight: bold;
+	color: #fff;
+	background-color: #468966; 
+	padding: 5px;
+	text-decoration: none;
+}
+#menu p a:visited{
+	font-weight: bold;
+	color: #fff;
+	background-color: #468966
+	padding: 5px;
+	text-decoration: none;
+}
+#menu p a:hover{
+	font-weight: bold;
+	color: #a1b06a;
+	background-color: #a6200c;
+	padding: 5px;
+	text-decoration-color: none;
+}
+img {
+	margin:10px;
+	padding: 10px;
+	border: solid 1px #468966;
+}
+.caixa_texto {
+	text-align: justify;
+	text-indent: 25px;
+}
+table {
+	border: solid thin #a6200c;
+}
+caption {
+	font-weight: bold;
+	color: #fff;
+	background-color: #2a2e24;
+	padding: 5px;
+}
+th {
+	background-color: #468966;
+	padding: 5px;
+	text-align: left;
+	color: #fff;
+}
+td {
+	background-color: #a1b06a
+	padding: 5px;
+	border-top: solid 1px #a6200c;
+}
+li {
+	list-style-image: url("../imagens/lista.gif");
+	list-style-position: inside;
+}
+#box {
+	font-weight: bold;
+	color: #a6200c;
+	background-color: #a1b06a;
+	background-image: url("../imagens/fundo_listrado.gif");
+	width: 200px;
+	padding: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.destaque {
+	font-size: 14px;
+	color: #fff;
+	background-color: #a6200c;
+}
+
+
+
+

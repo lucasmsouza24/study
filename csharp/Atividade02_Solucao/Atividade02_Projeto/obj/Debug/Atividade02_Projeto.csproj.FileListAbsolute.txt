@@ -1,0 +1,10 @@
+C:\Users\lucas\source\repos\Atividade02_Solucao\Atividade02_Projeto\bin\Debug\Atividade02_Projeto.exe.config
+C:\Users\lucas\source\repos\Atividade02_Solucao\Atividade02_Projeto\bin\Debug\Atividade02_Projeto.exe
+C:\Users\lucas\source\repos\Atividade02_Solucao\Atividade02_Projeto\bin\Debug\Atividade02_Projeto.pdb
+C:\Users\lucas\source\repos\Atividade02_Solucao\Atividade02_Projeto\obj\Debug\Atividade02_Projeto.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\Atividade02_Solucao\Atividade02_Projeto\obj\Debug\Atividade02_Projeto.FormPokemon.resources
+C:\Users\lucas\source\repos\Atividade02_Solucao\Atividade02_Projeto\obj\Debug\Atividade02_Projeto.Properties.Resources.resources
+C:\Users\lucas\source\repos\Atividade02_Solucao\Atividade02_Projeto\obj\Debug\Atividade02_Projeto.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\Atividade02_Solucao\Atividade02_Projeto\obj\Debug\Atividade02_Projeto.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Atividade02_Solucao\Atividade02_Projeto\obj\Debug\Atividade02_Projeto.exe
+C:\Users\lucas\source\repos\Atividade02_Solucao\Atividade02_Projeto\obj\Debug\Atividade02_Projeto.pdb

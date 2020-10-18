@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>aula 16</title>
+	<meta charset="utf-8">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$("input").focus(function(){
+				$(this).css("background-color", "red");
+			});
+			$("input").blur(function(){
+				$(this).css("background-color", "white");
+			});
+		});
+	</script>
+</head>
+<body>
+Nome: <input type="text" name="fullname"><br><br>
+Email: <input type="text" name="email">
+</body>
+</html>

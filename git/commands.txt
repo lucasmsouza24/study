@@ -1,0 +1,60 @@
+# configs
+
+	git config --global user.name [value] 		# define name user
+
+	git config --global user.email [value]  	# define email user
+
+	git config --global core.editor [value] 	# define default text editor
+
+	git config user.name 						# show actual value of user.name
+
+	git config user.email						# show actual value of user.email
+
+	git config core.editor						# show actual default text editor
+
+# basic
+
+	git init									# create an empty Git repository or reinitialize an existing one
+
+	git add [file]								# add file contents to the index
+
+	git commit -m [message]						# record changes to the repository
+
+	git checkout [file]							# remove changes not added for "git add" command	
+
+	git reset [HEAD] or [hash]					# HEAD: unmake staged (good with checkout)
+	
+				--soft		return to staged mode
+					
+				--mixed		return to modified mode
+				
+				--hard		return to previous commit
+
+	git remote add [name] [ssh]		# links local repository to remote repository
+
+	git push origin master						# sending changes to remote repository
+
+	git clone [ssh]								# cloning remote repository
+
+	
+# branch's
+
+	git branch									# show branches
+
+	git checkout -b [branch name]				# create a new branch
+
+	git checkout [branch name]					# move to branch
+
+	git checkout -D [branch name]				# delete branch
+
+# to see
+	
+	git status									# show the working tree status
+
+	git log										# show commit logs
+
+	git shortlog								# show a brief commit logs
+
+	git show [hash]								# show changes made by hash
+
+	git diff --name-only						# show changes between commits, commit and working tree, etc
