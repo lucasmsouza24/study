@@ -1,1 +1,3 @@
 android
+*.pdf
+node_modules

@@ -1,0 +1,23 @@
+#app {
+    background-color: grey;
+    width: 230px;
+    margin: 0px auto;
+    padding: 1px;
+}
+#input-box, #content-box {
+    background-color: rgb(196, 196, 196);
+    width: 80%;
+    margin: 10px auto;
+    padding: 10px;
+}
+.person-card {
+    background-color: rgb(255, 255, 151);
+    margin-top: 10px;
+}
+.person-card p {
+    text-align: center;
+}
+input {
+    float: left;
+    margin: 5px auto;
+}
