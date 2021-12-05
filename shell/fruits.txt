@@ -1,0 +1,6 @@
+fruta 1: bananna
+fruta 2: apple
+fruta 3: orange
+fruta 4: strawberry
+fruta 5: pineapple
+fruta 6: watermelon
